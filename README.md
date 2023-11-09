@@ -10,4 +10,4 @@
 - JavaScript(ES5/ES6)
 - React(Framework)
 
-### Ushbu web site 2023 || Oktyabr da Odiljonov Begijon tomonidan template asosida yaratildi. 
+### Ushbu web site 2023 || Oktyabr 
